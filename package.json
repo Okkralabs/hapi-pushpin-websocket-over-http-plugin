@@ -1,5 +1,5 @@
 {
-  "name": "hapi-pushpin-websocket-over-http",
+  "name": "hapi-pushpin-websocket-over-http-plugin",
   "version": "1.0.2",
   "description": "A plugin to allow pushpin websocket over-http connection to work with hapijs",
   "main": "lib/index.js",
@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jorgecuesta/hapi-pushpin-websocket-over-http.git"
+    "url": "git+https://github.com/Okkralabs/hapi-pushpin-websocket-over-http-plugin.git"
   },
+
   "keywords": [
     "hapi",
     "hapijs",
@@ -18,11 +19,11 @@
     "websocket"
   ],
   "author": "Jeffrey Soriano",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/jorgecuesta/hapi-pushpin-websocket-over-http/issues"
+    "url": "https://github.com/Okkralabs/hapi-pushpin-websocket-over-http-plugin/issues"
   },
-  "homepage": "https://github.com/jorgecuesta/hapi-pushpin-websocket-over-http#readme",
+  "homepage": "https://github.com/Okkralabs/hapi-pushpin-websocket-over-http-plugin#readme",
   "dependencies": {
     "boom": "^2.10.0",
     "grip": "^1.2.5",
